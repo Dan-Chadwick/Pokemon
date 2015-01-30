@@ -1,3 +1,7 @@
 Second Gen pokemon
 
+<<<<<<< HEAD
 Are the worst 
+=======
+You ain't know shit gurl
+>>>>>>> f2cb1ca2620b5296d7f88651bc85a397c450c389
