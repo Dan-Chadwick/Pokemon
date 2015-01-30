@@ -1,2 +1,4 @@
 Pokemon
 =======
+
+There are 151 pokemon in Red and Blue versions
